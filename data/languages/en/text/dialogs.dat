@@ -102,9 +102,10 @@ have ever seen!
 --------------------
 -- [Handmade]
 dialog {
-  id ="_treasure.flipper",
+  id ="_treasure.flippers.1",
   text = [[
-  You found the Zora Flippers! You can swim now!
+  You found a pair of flippers! 
+  You can swim now!
   ]]
 }
 
